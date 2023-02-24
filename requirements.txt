@@ -1,0 +1,8 @@
+numpy
+Pillow
+keras
+flask
+opencv-python
+gunicorn
+tensorflow
+
